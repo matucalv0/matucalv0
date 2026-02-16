@@ -63,7 +63,7 @@ Backend de aplicación web orientada a un negocio real.
 
 🚀 **Estado:** en proceso de despliegue a producción.
 
-🔗 Repositorio: [(Sistema nexo)](https://github.com/matucalv0/gestion-nexo-gimnasio)
+🔗 Repositorio: [Sistema nexo](https://github.com/matucalv0/gestion-nexo-gimnasio)
 
 ---
 
@@ -85,7 +85,7 @@ Backend de aplicación web orientada a un negocio real.
 
 ## 📫 Contacto
 
-* LinkedIn: ([Linkedin](https://www.linkedin.com/in/matucalvo/))
+* LinkedIn: [Linkedin](https://www.linkedin.com/in/matucalvo/)
 
 ---
 
