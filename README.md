@@ -4,7 +4,7 @@ Backend Developer enfocado en **Java + Spring Boot**, con fuerte orientación a 
 
 ---
 
-## 🧑‍💻 Perfil profesional
+##  Perfil profesional
 
 * Desarrollo backend con foco en **claridad, mantenibilidad y escalabilidad**
 * Experiencia construyendo **APIs REST** con lógica de negocio real
@@ -12,7 +12,7 @@ Backend Developer enfocado en **Java + Spring Boot**, con fuerte orientación a 
 
 ---
 
-## 🛠️ Stack técnico
+##  Stack técnico
 
 **Lenguaje & Frameworks**
 
@@ -45,9 +45,9 @@ Backend Developer enfocado en **Java + Spring Boot**, con fuerte orientación a 
 
 ---
 
-## 🚀 Proyecto destacado
+##  Proyecto destacado
 
-### 🏋️ Sistema de gestión para gimnasios
+###  Aplicacion web para un gimnasio local
 
 Backend de aplicación web orientada a un negocio real.
 
@@ -59,15 +59,15 @@ Backend de aplicación web orientada a un negocio real.
 * Persistencia con JPA/Hibernate
 * Diseño pensado para despliegue en producción
 
-📌 **Contexto del proyecto:** sistema desarrollado para un **escenario real**, con usuarios reales y reglas de negocio concretas.
+ **Contexto del proyecto:** sistema desarrollado para un **escenario real**, con usuarios reales y reglas de negocio concretas.
 
-🚀 **Estado:** en proceso de despliegue a producción.
+ **Estado:** en proceso de despliegue a producción.
 
-🔗 Repositorio: [Sistema nexo](https://github.com/matucalv0/gestion-nexo-gimnasio)
+ Repositorio: [Sistema nexo](https://github.com/matucalv0/gestion-nexo-gimnasio)
 
 ---
 
-## 📚 Actualmente profundizando en
+##  Actualmente profundizando en
 
 * Spring Security a nivel profesional
 * Buenas prácticas en APIs REST
@@ -75,7 +75,7 @@ Backend de aplicación web orientada a un negocio real.
 
 ---
 
-## 🎯 Objetivo laboral
+##  Objetivo laboral
 
 * Posición Backend Developer (Java / Spring)
 * Primer o segundo rol profesional
@@ -83,7 +83,7 @@ Backend de aplicación web orientada a un negocio real.
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 * LinkedIn: [Linkedin](https://www.linkedin.com/in/matucalvo/)
 
