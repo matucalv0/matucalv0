@@ -2,7 +2,6 @@
 
 Backend Developer enfocado en **Java + Spring Boot**, con experiencia en **APIs REST** y **bases de datos relacionales**
 
-Actualmente mantengo un **sistema backend real en producción** para un gimnasio.
 
 ---
 
