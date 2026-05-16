@@ -10,6 +10,7 @@ Backend Developer enfocado en **Java + Spring Boot**, con experiencia en **APIs 
 - Spring Boot (Web, Data JPA, Security)
 - Hibernate / JPA
 - PostgreSQL / MySQL
+- MongoDB
 - REST APIs
 - Git
 
