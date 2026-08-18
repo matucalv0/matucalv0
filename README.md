@@ -1,12 +1,14 @@
-# Mateo Calvo — Backend Developer (Java / Spring Boot)
+# Mateo Calvo — Backend Developer (Java / Spring Boot | C# / .NET)
 
-Backend Developer enfocado en **Java + Spring Boot**, con experiencia en **APIs REST** y **bases de datos relacionales**
+Backend Developer enfocado tanto en **Java + Spring Boot** y **C# + .NET**, con experiencia en **APIs REST** y **WebSockets** para la comunicacion con el navegador, y **bases de datos relacionales** para la persistencia de los datos.
 
 
 ---
 
 ##  Stack
 - Java
+- C#
+- .NET (Blazor, ASP)
 - Spring Boot (Web, Data JPA, Security)
 - Hibernate / JPA
 - PostgreSQL / MySQL
